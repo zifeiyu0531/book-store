@@ -1,0 +1,35 @@
+#title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#message_area{
+    height: 160px;
+    width: 500px;
+}
+
+#submit_button{
+    margin-top: 20px;
+}
+
+#cancel_button{
+    margin-bottom: 20px;
+}
+
+#message_table{
+    width: 45%;
+    margin: 0 auto;
+}
+
+.name_td{
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.message_td{
+    width: 100%;
+}

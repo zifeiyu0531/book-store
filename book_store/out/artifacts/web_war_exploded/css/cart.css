@@ -1,0 +1,76 @@
+#title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#add_cart_text{
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#price_text{
+    font-size: 20px;
+}
+
+#choose_num_text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#book_table{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+    border-color: lightskyblue;
+}
+
+#book_table_tr{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text{
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#cart_form{
+    margin: 0;
+}
+
+.num_button{
+    width: 25px;
+    height: 25px;
+}
+
+#book_num_input{
+    width: 25px;
+    height: 25px;
+    margin-left: 177px;
+}
+
+#submit_button{
+    margin-left: 75px;
+}
+
+#make_order_div{
+    width: 100%;
+}
+
+#make_order_button{
+    margin-top: 20px;
+    text-decoration: none;
+    border-right: solid 2px gray;
+    border-bottom: solid 2px gray;
+    height: 70px;
+    width: 140px;
+    background-color: deepskyblue;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    right: 10%;
+}

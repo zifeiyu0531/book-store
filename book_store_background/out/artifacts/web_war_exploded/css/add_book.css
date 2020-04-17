@@ -1,0 +1,45 @@
+#bg {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: azure;
+}
+
+
+#add_title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#add_book_form{
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+}
+
+.add_form_cell{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+}
+
+#introduction{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 160px;
+    width: 500px;
+}
+
+#type{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#imgsrc{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

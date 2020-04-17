@@ -1,0 +1,18 @@
+#title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#book_table{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+    border-color: lightskyblue;
+}
+
+#book_table_tr{
+    font-size: 20px;
+    font-weight: bold;
+}

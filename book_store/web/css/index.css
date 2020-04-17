@@ -1,0 +1,34 @@
+#title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+#choose_num_text{
+    font-size: 20px;
+}
+
+#book_table{
+    width: 85%;
+    display: inline-block;
+    text-align: center;
+    border-color: lightskyblue;
+}
+
+#book_table_tr{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#book_img_cell{
+    transform: scale(0.5);
+}
+
+#book_price_cell{
+    width: 100px;
+}
+
+#add_cart_cell{
+    width: 200px;
+}

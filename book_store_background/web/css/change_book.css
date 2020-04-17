@@ -1,0 +1,37 @@
+#bg {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: azure;
+}
+
+#title{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 黑体;
+    font-weight: bold;
+}
+
+.old_price{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#change_form{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#new_price{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 30px;
+}
+
+#submit{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
